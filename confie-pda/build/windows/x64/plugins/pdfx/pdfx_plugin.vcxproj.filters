@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\jrbel\Documents\GitHub\conformeia\windows\flutter\ephemeral\.plugin_symlinks\pdfx\windows\pdfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jrbel\Documents\GitHub\conformeia\windows\flutter\ephemeral\.plugin_symlinks\pdfx\windows\pdfx_plugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\jrbel\Documents\GitHub\conformeia\windows\flutter\ephemeral\.plugin_symlinks\pdfx\windows\pdfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jrbel\Documents\GitHub\conformeia\windows\flutter\ephemeral\.plugin_symlinks\pdfx\windows\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7C96F875-4D93-3355-A8D2-CD4C37655E4F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3909C315-45DC-3DCA-ABB7-4B3AA3E224CB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

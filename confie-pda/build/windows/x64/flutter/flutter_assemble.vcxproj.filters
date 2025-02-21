@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jrbel\Documents\GitHub\conformeia\build\windows\x64\CMakeFiles\4ffa8d8b9731f864c43b51d6ff55f922\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\jrbel\Documents\GitHub\conformeia\build\windows\x64\CMakeFiles\115af9aeaac34041b3e8b7ecd0b586e7\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\jrbel\Documents\GitHub\conformeia\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\jrbel\Documents\GitHub\conformeia\build\windows\x64\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{27D9E42B-2186-38AD-9ABE-C0E10187CB2D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

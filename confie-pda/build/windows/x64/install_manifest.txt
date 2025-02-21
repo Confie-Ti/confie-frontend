@@ -1,0 +1,15 @@
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/runner/Release/data/icudtl.dat
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/runner/Release/flutter_windows.dll
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/runner/Release/pdfx_plugin.dll
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/runner/Release/pdfium.dll
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/runner/Release/data/flutter_assets/AssetManifest.bin
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/runner/Release/data/flutter_assets/AssetManifest.bin.json
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/runner/Release/data/flutter_assets/AssetManifest.json
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/runner/Release/data/flutter_assets/assets/logo.png
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/runner/Release/data/flutter_assets/FontManifest.json
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/runner/Release/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/runner/Release/data/flutter_assets/NOTICES
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/runner/Release/data/flutter_assets/NOTICES.Z
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/runner/Release/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/runner/Release/data/flutter_assets/shaders/ink_sparkle.frag
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/runner/Release/data/app.so

@@ -1,0 +1,13 @@
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/CMakeFiles/INSTALL.dir
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/CMakeFiles/ALL_BUILD.dir
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/CMakeFiles/ZERO_CHECK.dir
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/flutter/CMakeFiles/INSTALL.dir
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/runner/CMakeFiles/conformeia.dir
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/runner/CMakeFiles/INSTALL.dir
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/runner/CMakeFiles/ALL_BUILD.dir
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/plugins/pdfx/CMakeFiles/pdfx_plugin.dir
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/plugins/pdfx/CMakeFiles/INSTALL.dir
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/plugins/pdfx/CMakeFiles/ALL_BUILD.dir

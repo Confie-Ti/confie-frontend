@@ -1,0 +1,14 @@
+# Target labels
+ pdfium-download
+# Source files and their labels
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/pdfium-download/CMakeFiles/pdfium-download
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/pdfium-download/CMakeFiles/ecfceab6bdf194ebaceb40a4d55b2baf/pdfium-download.rule
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/pdfium-download/CMakeFiles/2cfac31e4455dc3b5016de20f8a78c4a/pdfium-download-complete.rule
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/pdfium-download/CMakeFiles/4c6138825588a1adfbba5abd304f5321/pdfium-download-build.rule
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/pdfium-download/CMakeFiles/4c6138825588a1adfbba5abd304f5321/pdfium-download-configure.rule
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/pdfium-download/CMakeFiles/4c6138825588a1adfbba5abd304f5321/pdfium-download-download.rule
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/pdfium-download/CMakeFiles/4c6138825588a1adfbba5abd304f5321/pdfium-download-install.rule
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/pdfium-download/CMakeFiles/4c6138825588a1adfbba5abd304f5321/pdfium-download-mkdir.rule
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/pdfium-download/CMakeFiles/4c6138825588a1adfbba5abd304f5321/pdfium-download-patch.rule
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/pdfium-download/CMakeFiles/4c6138825588a1adfbba5abd304f5321/pdfium-download-test.rule
+C:/Users/jrbel/Documents/GitHub/conformeia/build/windows/x64/pdfium-download/CMakeFiles/4c6138825588a1adfbba5abd304f5321/pdfium-download-update.rule
