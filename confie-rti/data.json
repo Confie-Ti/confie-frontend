@@ -1,0 +1,838 @@
+{
+    "project_id": 1,
+    "project_name": "Empresa X",
+    "sectors": [
+      {
+        "sector_id": 1,
+        "sector_name": "Caldeira",
+        "equipments": [
+          {
+            "equipment_tag": "KDXGOY",
+            "image": [
+              "https://rti-update.s3.us-east-2.amazonaws.com/11311813012025_distribuidor-de-energia-3-683x1024.jpg"
+            ],
+            "equipment_description": "Painel de acionamento do gerador",
+            "ncs": [
+              {
+                "nc_title": "NC 2. SINALIZAÇÕES INCORRETAS DE NÍVEL DE TENSÃO",
+                "nc_description": "Evidenciado  sinalização  de  \"Alta  Tensão\"  em  conjuntos  de manobra  e  controle  alimentados  em  \"Baixa  Tensão\".  Esta  situação  pode transmitir a mensagem de que não há critério para sinalizações de advertência e trabalhadores podem não levar em ",
+                "category": "",
+                "technical_base": "NBR 5410 item 7.2.3.h.",
+                "legal_base": "NR 10 itens 10.10.1, NR 12 item 12.18.b.",
+                "infraction": 28,
+                "recommendation": ""
+              }
+            ]
+          },
+          {
+            "equipment_tag": "KDXGOY",
+            "image": [
+              "https://rti-update.s3.us-east-2.amazonaws.com/11311813012025_distribuidor-de-energia-3-683x1024.jpg"
+            ],
+            "equipment_description": "Painel de acionamento do gerador",
+            "ncs": [
+              {
+                "nc_title": "NC 2. SINALIZAÇÕES INCORRETAS DE NÍVEL DE TENSÃO",
+                "nc_description": "Evidenciado  sinalização  de  \"Alta  Tensão\"  em  conjuntos  de manobra  e  controle  alimentados  em  \"Baixa  Tensão\".  Esta  situação  pode transmitir a mensagem de que não há critério para sinalizações de advertência e trabalhadores podem não levar em ",
+                "category": "",
+                "technical_base": "NBR 5410 item 7.2.3.h.",
+                "legal_base": "NR 10 itens 10.10.1, NR 12 item 12.18.b.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 10. FALTA DE IDENTIFICAÇÃO DE FUNÇÃO DE DISPOSITIVO DE",
+                "nc_description": "Evidenciado a falta de identificação de funções de dispositivos de controle  manual  {Chave  seletora,  Botoeira  etc.}  na  porta  do  conjunto  de manobra e controle.",
+                "category": "",
+                "technical_base": "NBR 5410 itens 6.1.5.1, 6.5.4.9, NBR IEC 60439-1 item 5.2.",
+                "legal_base": "NR 10 itens 10.3.9 alínea c, 10.10.1a.",
+                "infraction": 28,
+                "recommendation": ""
+              }
+            ]
+          },
+          {
+            "equipment_tag": "KDXGOY",
+            "image": [
+              "https://rti-update.s3.us-east-2.amazonaws.com/11311813012025_distribuidor-de-energia-3-683x1024.jpg"
+            ],
+            "equipment_description": "Painel de acionamento do gerador",
+            "ncs": [
+              {
+                "nc_title": "NC 2. SINALIZAÇÕES INCORRETAS DE NÍVEL DE TENSÃO",
+                "nc_description": "Evidenciado  sinalização  de  \"Alta  Tensão\"  em  conjuntos  de manobra  e  controle  alimentados  em  \"Baixa  Tensão\".  Esta  situação  pode transmitir a mensagem de que não há critério para sinalizações de advertência e trabalhadores podem não levar em ",
+                "category": "",
+                "technical_base": "NBR 5410 item 7.2.3.h.",
+                "legal_base": "NR 10 itens 10.10.1, NR 12 item 12.18.b.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 10. FALTA DE IDENTIFICAÇÃO DE FUNÇÃO DE DISPOSITIVO DE",
+                "nc_description": "Evidenciado a falta de identificação de funções de dispositivos de controle  manual  {Chave  seletora,  Botoeira  etc.}  na  porta  do  conjunto  de manobra e controle.",
+                "category": "",
+                "technical_base": "NBR 5410 itens 6.1.5.1, 6.5.4.9, NBR IEC 60439-1 item 5.2.",
+                "legal_base": "NR 10 itens 10.3.9 alínea c, 10.10.1a.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 11. CONDIÇÕES  DE  SEGURANÇA  DE  INVÓLUCRO  METÁLICO",
+                "nc_description": "Evidenciado  {falta  de  fixação  de  alguns  parafusos  nos fechamentos  do  invólucro/  ou  fechamento  inadequado  das  portas  do invólucro/  ou  aberturas  não  utilizadas  e  sem  obturadores  no  invólucro metálico}, esta situação compromete a prot",
+                "category": "",
+                "technical_base": "NBR IEC 62271-200 item 6.106, Anexo A.1",
+                "legal_base": "NR10 item: 10.4.1",
+                "infraction": 28,
+                "recommendation": ""
+              }
+            ]
+          },
+          {
+            "equipment_tag": "KDXGOY",
+            "image": [
+              "https://rti-update.s3.us-east-2.amazonaws.com/11311813012025_distribuidor-de-energia-3-683x1024.jpg",
+              "https://rti-update.s3.us-east-2.amazonaws.com/11311813012025_instalacao-painel-eletrico-01.jpg"
+            ],
+            "equipment_description": "Painel de acionamento do gerador",
+            "ncs": [
+              {
+                "nc_title": "NC 2. SINALIZAÇÕES INCORRETAS DE NÍVEL DE TENSÃO",
+                "nc_description": "Evidenciado  sinalização  de  \"Alta  Tensão\"  em  conjuntos  de manobra  e  controle  alimentados  em  \"Baixa  Tensão\".  Esta  situação  pode transmitir a mensagem de que não há critério para sinalizações de advertência e trabalhadores podem não levar em ",
+                "category": "",
+                "technical_base": "NBR 5410 item 7.2.3.h.",
+                "legal_base": "NR 10 itens 10.10.1, NR 12 item 12.18.b.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 10. FALTA DE IDENTIFICAÇÃO DE FUNÇÃO DE DISPOSITIVO DE",
+                "nc_description": "Evidenciado a falta de identificação de funções de dispositivos de controle  manual  {Chave  seletora,  Botoeira  etc.}  na  porta  do  conjunto  de manobra e controle.",
+                "category": "",
+                "technical_base": "NBR 5410 itens 6.1.5.1, 6.5.4.9, NBR IEC 60439-1 item 5.2.",
+                "legal_base": "NR 10 itens 10.3.9 alínea c, 10.10.1a.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 11. CONDIÇÕES  DE  SEGURANÇA  DE  INVÓLUCRO  METÁLICO",
+                "nc_description": "Evidenciado  {falta  de  fixação  de  alguns  parafusos  nos fechamentos  do  invólucro/  ou  fechamento  inadequado  das  portas  do invólucro/  ou  aberturas  não  utilizadas  e  sem  obturadores  no  invólucro metálico}, esta situação compromete a prot",
+                "category": "",
+                "technical_base": "NBR IEC 62271-200 item 6.106, Anexo A.1",
+                "legal_base": "NR10 item: 10.4.1",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 16. ALTERAÇÃO  DE  CARACTERÍSTICAS  EM  CONJUNTO  DE",
+                "nc_description": "Evidenciados aberturas causadas pela falta do anteparo interno do conjunto de manobra e controle, alterando as condições originais de projeto.",
+                "category": "",
+                "technical_base": "NBR 5410 item 8.3.2, NBR 60439-1 item 7.4.2.2.2.",
+                "legal_base": "Base Legal: NR 10 item 10.4.4.",
+                "infraction": 28,
+                "recommendation": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sector_id": 2,
+        "sector_name": "Administricao",
+        "equipments": [
+          {
+            "equipment_tag": "FW5ZJ4",
+            "image": [
+              "https://rti-update.s3.us-east-2.amazonaws.com/11315413012025_instalacao-painel-eletrico-01.jpg"
+            ],
+            "equipment_description": "Painel de distribuição de energia principal",
+            "ncs": [
+              {
+                "nc_title": "NC 6. CONJUNTO DE MANOBRA E CONTROLE COM CORRENTE DE",
+                "nc_description": "Evidenciado que a plaqueta de identificação informa uma corrente de curto circuito inferior a especificada para este conjunto na {citar nº do documento. Ex.: SOENG CC-1296-I-005 Rev.2 capítulo 3.3.}",
+                "category": "",
+                "technical_base": "NBR 5410 item 5.3.5.1",
+                "legal_base": "NR 10 item 10.4.1.",
+                "infraction": 28,
+                "recommendation": ""
+              }
+            ]
+          },
+          {
+            "equipment_tag": "FW5ZJ4",
+            "image": [
+              "https://rti-update.s3.us-east-2.amazonaws.com/11315413012025_instalacao-painel-eletrico-01.jpg"
+            ],
+            "equipment_description": "Painel de distribuição de energia principal",
+            "ncs": [
+              {
+                "nc_title": "NC 6. CONJUNTO DE MANOBRA E CONTROLE COM CORRENTE DE",
+                "nc_description": "Evidenciado que a plaqueta de identificação informa uma corrente de curto circuito inferior a especificada para este conjunto na {citar nº do documento. Ex.: SOENG CC-1296-I-005 Rev.2 capítulo 3.3.}",
+                "category": "",
+                "technical_base": "NBR 5410 item 5.3.5.1",
+                "legal_base": "NR 10 item 10.4.1.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 10. FALTA DE IDENTIFICAÇÃO DE FUNÇÃO DE DISPOSITIVO DE",
+                "nc_description": "Evidenciado a falta de identificação de funções de dispositivos de controle  manual  {Chave  seletora,  Botoeira  etc.}  na  porta  do  conjunto  de manobra e controle.",
+                "category": "",
+                "technical_base": "NBR 5410 itens 6.1.5.1, 6.5.4.9, NBR IEC 60439-1 item 5.2.",
+                "legal_base": "NR 10 itens 10.3.9 alínea c, 10.10.1a.",
+                "infraction": 28,
+                "recommendation": ""
+              }
+            ]
+          },
+          {
+            "equipment_tag": "FW5ZJ4",
+            "image": [
+              "https://rti-update.s3.us-east-2.amazonaws.com/11315413012025_instalacao-painel-eletrico-01.jpg"
+            ],
+            "equipment_description": "Painel de distribuição de energia principal",
+            "ncs": [
+              {
+                "nc_title": "NC 6. CONJUNTO DE MANOBRA E CONTROLE COM CORRENTE DE",
+                "nc_description": "Evidenciado que a plaqueta de identificação informa uma corrente de curto circuito inferior a especificada para este conjunto na {citar nº do documento. Ex.: SOENG CC-1296-I-005 Rev.2 capítulo 3.3.}",
+                "category": "",
+                "technical_base": "NBR 5410 item 5.3.5.1",
+                "legal_base": "NR 10 item 10.4.1.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 10. FALTA DE IDENTIFICAÇÃO DE FUNÇÃO DE DISPOSITIVO DE",
+                "nc_description": "Evidenciado a falta de identificação de funções de dispositivos de controle  manual  {Chave  seletora,  Botoeira  etc.}  na  porta  do  conjunto  de manobra e controle.",
+                "category": "",
+                "technical_base": "NBR 5410 itens 6.1.5.1, 6.5.4.9, NBR IEC 60439-1 item 5.2.",
+                "legal_base": "NR 10 itens 10.3.9 alínea c, 10.10.1a.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 21. CONDUTORES COM EXTREMIDADES NUAS EXPOSTAS",
+                "nc_description": "Evidenciados  condutores  com  as  extremidades nuas expostas sem isolação adequada. Estes condutores podem estar vivos ou vir a se tornar vivos, resultando em risco de choque elétrico por contato direto ou ainda de partes condutivas se tornarem acidental",
+                "category": "",
+                "technical_base": "NBR 5410 itens 4.1.1, 5.1.1.1, Anexo B, NBR IEC 60439-1 item",
+                "legal_base": "NR 10 itens 10.2.8.2.1",
+                "infraction": 28,
+                "recommendation": ""
+              }
+            ]
+          },
+          {
+            "equipment_tag": "FW5ZJ4",
+            "image": [
+              "https://rti-update.s3.us-east-2.amazonaws.com/11315413012025_instalacao-painel-eletrico-01.jpg"
+            ],
+            "equipment_description": "Painel de distribuição de energia principal",
+            "ncs": [
+              {
+                "nc_title": "NC 6. CONJUNTO DE MANOBRA E CONTROLE COM CORRENTE DE",
+                "nc_description": "Evidenciado que a plaqueta de identificação informa uma corrente de curto circuito inferior a especificada para este conjunto na {citar nº do documento. Ex.: SOENG CC-1296-I-005 Rev.2 capítulo 3.3.}",
+                "category": "",
+                "technical_base": "NBR 5410 item 5.3.5.1",
+                "legal_base": "NR 10 item 10.4.1.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 10. FALTA DE IDENTIFICAÇÃO DE FUNÇÃO DE DISPOSITIVO DE",
+                "nc_description": "Evidenciado a falta de identificação de funções de dispositivos de controle  manual  {Chave  seletora,  Botoeira  etc.}  na  porta  do  conjunto  de manobra e controle.",
+                "category": "",
+                "technical_base": "NBR 5410 itens 6.1.5.1, 6.5.4.9, NBR IEC 60439-1 item 5.2.",
+                "legal_base": "NR 10 itens 10.3.9 alínea c, 10.10.1a.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 21. CONDUTORES COM EXTREMIDADES NUAS EXPOSTAS",
+                "nc_description": "Evidenciados  condutores  com  as  extremidades nuas expostas sem isolação adequada. Estes condutores podem estar vivos ou vir a se tornar vivos, resultando em risco de choque elétrico por contato direto ou ainda de partes condutivas se tornarem acidental",
+                "category": "",
+                "technical_base": "NBR 5410 itens 4.1.1, 5.1.1.1, Anexo B, NBR IEC 60439-1 item",
+                "legal_base": "NR 10 itens 10.2.8.2.1",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 20. DEFICIÊNCIA   NA   PROTEÇÃO   CONTRA   PERIGOS",
+                "nc_description": "Evidenciado que o conjunto de manobra e controle metálico com classificação IAC (iniciais de Internal arc classified - Arco interno classificado - Conjunto de manobra e controle em invólucro metálico para o qual critérios prescritos para proteção de pesso",
+                "category": "",
+                "technical_base": "NBR 14039 item 5.9, NBRIEC 62271-200 itens 8.3 e 10.2.",
+                "legal_base": "NR 10 item 10.4.1",
+                "infraction": 28,
+                "recommendation": ""
+              }
+            ]
+          },
+          {
+            "equipment_tag": "FW5ZJ4",
+            "image": [
+              "https://rti-update.s3.us-east-2.amazonaws.com/11315413012025_instalacao-painel-eletrico-01.jpg"
+            ],
+            "equipment_description": "Painel de distribuição de energia principal",
+            "ncs": [
+              {
+                "nc_title": "NC 6. CONJUNTO DE MANOBRA E CONTROLE COM CORRENTE DE",
+                "nc_description": "Evidenciado que a plaqueta de identificação informa uma corrente de curto circuito inferior a especificada para este conjunto na {citar nº do documento. Ex.: SOENG CC-1296-I-005 Rev.2 capítulo 3.3.}",
+                "category": "",
+                "technical_base": "NBR 5410 item 5.3.5.1",
+                "legal_base": "NR 10 item 10.4.1.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 10. FALTA DE IDENTIFICAÇÃO DE FUNÇÃO DE DISPOSITIVO DE",
+                "nc_description": "Evidenciado a falta de identificação de funções de dispositivos de controle  manual  {Chave  seletora,  Botoeira  etc.}  na  porta  do  conjunto  de manobra e controle.",
+                "category": "",
+                "technical_base": "NBR 5410 itens 6.1.5.1, 6.5.4.9, NBR IEC 60439-1 item 5.2.",
+                "legal_base": "NR 10 itens 10.3.9 alínea c, 10.10.1a.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 21. CONDUTORES COM EXTREMIDADES NUAS EXPOSTAS",
+                "nc_description": "Evidenciados  condutores  com  as  extremidades nuas expostas sem isolação adequada. Estes condutores podem estar vivos ou vir a se tornar vivos, resultando em risco de choque elétrico por contato direto ou ainda de partes condutivas se tornarem acidental",
+                "category": "",
+                "technical_base": "NBR 5410 itens 4.1.1, 5.1.1.1, Anexo B, NBR IEC 60439-1 item",
+                "legal_base": "NR 10 itens 10.2.8.2.1",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 20. DEFICIÊNCIA   NA   PROTEÇÃO   CONTRA   PERIGOS",
+                "nc_description": "Evidenciado que o conjunto de manobra e controle metálico com classificação IAC (iniciais de Internal arc classified - Arco interno classificado - Conjunto de manobra e controle em invólucro metálico para o qual critérios prescritos para proteção de pesso",
+                "category": "",
+                "technical_base": "NBR 14039 item 5.9, NBRIEC 62271-200 itens 8.3 e 10.2.",
+                "legal_base": "NR 10 item 10.4.1",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 42. Impedimento  De  Reenergização  Inadequado - Somente",
+                "nc_description": "Evidenciado  bloqueio  inadequado  no  conjunto  de  manobra  e controle, está sendo usada apenas a etiqueta de sinalização de equipamento bloqueado e não há nenhum dispositivo de impedimento de energização.",
+                "category": "",
+                "technical_base": "Não aplicável",
+                "legal_base": "NR 10 item 10.3.1, NR 12 item 12.113 b",
+                "infraction": 28,
+                "recommendation": ""
+              }
+            ]
+          },
+          {
+            "equipment_tag": "FW5ZJ4",
+            "image": [
+              "https://rti-update.s3.us-east-2.amazonaws.com/11315413012025_instalacao-painel-eletrico-01.jpg"
+            ],
+            "equipment_description": "Painel de distribuição de energia principal",
+            "ncs": [
+              {
+                "nc_title": "NC 6. CONJUNTO DE MANOBRA E CONTROLE COM CORRENTE DE",
+                "nc_description": "Evidenciado que a plaqueta de identificação informa uma corrente de curto circuito inferior a especificada para este conjunto na {citar nº do documento. Ex.: SOENG CC-1296-I-005 Rev.2 capítulo 3.3.}",
+                "category": "",
+                "technical_base": "NBR 5410 item 5.3.5.1",
+                "legal_base": "NR 10 item 10.4.1.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 10. FALTA DE IDENTIFICAÇÃO DE FUNÇÃO DE DISPOSITIVO DE",
+                "nc_description": "Evidenciado a falta de identificação de funções de dispositivos de controle  manual  {Chave  seletora,  Botoeira  etc.}  na  porta  do  conjunto  de manobra e controle.",
+                "category": "",
+                "technical_base": "NBR 5410 itens 6.1.5.1, 6.5.4.9, NBR IEC 60439-1 item 5.2.",
+                "legal_base": "NR 10 itens 10.3.9 alínea c, 10.10.1a.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 21. CONDUTORES COM EXTREMIDADES NUAS EXPOSTAS",
+                "nc_description": "Evidenciados  condutores  com  as  extremidades nuas expostas sem isolação adequada. Estes condutores podem estar vivos ou vir a se tornar vivos, resultando em risco de choque elétrico por contato direto ou ainda de partes condutivas se tornarem acidental",
+                "category": "",
+                "technical_base": "NBR 5410 itens 4.1.1, 5.1.1.1, Anexo B, NBR IEC 60439-1 item",
+                "legal_base": "NR 10 itens 10.2.8.2.1",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 20. DEFICIÊNCIA   NA   PROTEÇÃO   CONTRA   PERIGOS",
+                "nc_description": "Evidenciado que o conjunto de manobra e controle metálico com classificação IAC (iniciais de Internal arc classified - Arco interno classificado - Conjunto de manobra e controle em invólucro metálico para o qual critérios prescritos para proteção de pesso",
+                "category": "",
+                "technical_base": "NBR 14039 item 5.9, NBRIEC 62271-200 itens 8.3 e 10.2.",
+                "legal_base": "NR 10 item 10.4.1",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 42. Impedimento  De  Reenergização  Inadequado - Somente",
+                "nc_description": "Evidenciado  bloqueio  inadequado  no  conjunto  de  manobra  e controle, está sendo usada apenas a etiqueta de sinalização de equipamento bloqueado e não há nenhum dispositivo de impedimento de energização.",
+                "category": "",
+                "technical_base": "Não aplicável",
+                "legal_base": "NR 10 item 10.3.1, NR 12 item 12.113 b",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 36. CONJUNTO  DE  MANOBRA  E  CONTROLE  COM  GRAU  DE",
+                "nc_description": "Evidenciado que o conjunto de manobra e controle teve o Grau de Proteção  (IP)  alterado  pelo  modo  de  instalação,  onde  foram  realizadas aberturas irregulares, permitindo a entrada de corpos sólidos e de líquidos.",
+                "category": "",
+                "technical_base": "NBR 5410 itens 6.1.3.2, 8.3.2.1.",
+                "legal_base": "NR 10 itens 10.4.1, 10.4.4.",
+                "infraction": 28,
+                "recommendation": ""
+              }
+            ]
+          },
+          {
+            "equipment_tag": "FW5ZJ4",
+            "image": [
+              "https://rti-update.s3.us-east-2.amazonaws.com/11315413012025_instalacao-painel-eletrico-01.jpg"
+            ],
+            "equipment_description": "Painel de distribuição de energia principal",
+            "ncs": [
+              {
+                "nc_title": "NC 6. CONJUNTO DE MANOBRA E CONTROLE COM CORRENTE DE",
+                "nc_description": "Evidenciado que a plaqueta de identificação informa uma corrente de curto circuito inferior a especificada para este conjunto na {citar nº do documento. Ex.: SOENG CC-1296-I-005 Rev.2 capítulo 3.3.}",
+                "category": "",
+                "technical_base": "NBR 5410 item 5.3.5.1",
+                "legal_base": "NR 10 item 10.4.1.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 10. FALTA DE IDENTIFICAÇÃO DE FUNÇÃO DE DISPOSITIVO DE",
+                "nc_description": "Evidenciado a falta de identificação de funções de dispositivos de controle  manual  {Chave  seletora,  Botoeira  etc.}  na  porta  do  conjunto  de manobra e controle.",
+                "category": "",
+                "technical_base": "NBR 5410 itens 6.1.5.1, 6.5.4.9, NBR IEC 60439-1 item 5.2.",
+                "legal_base": "NR 10 itens 10.3.9 alínea c, 10.10.1a.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 21. CONDUTORES COM EXTREMIDADES NUAS EXPOSTAS",
+                "nc_description": "Evidenciados  condutores  com  as  extremidades nuas expostas sem isolação adequada. Estes condutores podem estar vivos ou vir a se tornar vivos, resultando em risco de choque elétrico por contato direto ou ainda de partes condutivas se tornarem acidental",
+                "category": "",
+                "technical_base": "NBR 5410 itens 4.1.1, 5.1.1.1, Anexo B, NBR IEC 60439-1 item",
+                "legal_base": "NR 10 itens 10.2.8.2.1",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 20. DEFICIÊNCIA   NA   PROTEÇÃO   CONTRA   PERIGOS",
+                "nc_description": "Evidenciado que o conjunto de manobra e controle metálico com classificação IAC (iniciais de Internal arc classified - Arco interno classificado - Conjunto de manobra e controle em invólucro metálico para o qual critérios prescritos para proteção de pesso",
+                "category": "",
+                "technical_base": "NBR 14039 item 5.9, NBRIEC 62271-200 itens 8.3 e 10.2.",
+                "legal_base": "NR 10 item 10.4.1",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 42. Impedimento  De  Reenergização  Inadequado - Somente",
+                "nc_description": "Evidenciado  bloqueio  inadequado  no  conjunto  de  manobra  e controle, está sendo usada apenas a etiqueta de sinalização de equipamento bloqueado e não há nenhum dispositivo de impedimento de energização.",
+                "category": "",
+                "technical_base": "Não aplicável",
+                "legal_base": "NR 10 item 10.3.1, NR 12 item 12.113 b",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 36. CONJUNTO  DE  MANOBRA  E  CONTROLE  COM  GRAU  DE",
+                "nc_description": "Evidenciado que o conjunto de manobra e controle teve o Grau de Proteção  (IP)  alterado  pelo  modo  de  instalação,  onde  foram  realizadas aberturas irregulares, permitindo a entrada de corpos sólidos e de líquidos.",
+                "category": "",
+                "technical_base": "NBR 5410 itens 6.1.3.2, 8.3.2.1.",
+                "legal_base": "NR 10 itens 10.4.1, 10.4.4.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 50. EIXO FRONTAL DE ACIONAMENTO REMOVIDO NO CONJUNTO",
+                "nc_description": "Evidenciado eixo frontal de acionamento do disjuntor removido, inutilizando a manopla de acionamento na porta do conjunto.",
+                "category": "",
+                "technical_base": "NBR 5410 item 8.3.2.2.",
+                "legal_base": "NR 10 item 10.4.4.",
+                "infraction": 28,
+                "recommendation": ""
+              }
+            ]
+          },
+          {
+            "equipment_tag": "FW5ZJ4",
+            "image": [
+              "https://rti-update.s3.us-east-2.amazonaws.com/11315413012025_instalacao-painel-eletrico-01.jpg"
+            ],
+            "equipment_description": "Painel de distribuição de energia principal",
+            "ncs": [
+              {
+                "nc_title": "NC 6. CONJUNTO DE MANOBRA E CONTROLE COM CORRENTE DE",
+                "nc_description": "Evidenciado que a plaqueta de identificação informa uma corrente de curto circuito inferior a especificada para este conjunto na {citar nº do documento. Ex.: SOENG CC-1296-I-005 Rev.2 capítulo 3.3.}",
+                "category": "",
+                "technical_base": "NBR 5410 item 5.3.5.1",
+                "legal_base": "NR 10 item 10.4.1.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 10. FALTA DE IDENTIFICAÇÃO DE FUNÇÃO DE DISPOSITIVO DE",
+                "nc_description": "Evidenciado a falta de identificação de funções de dispositivos de controle  manual  {Chave  seletora,  Botoeira  etc.}  na  porta  do  conjunto  de manobra e controle.",
+                "category": "",
+                "technical_base": "NBR 5410 itens 6.1.5.1, 6.5.4.9, NBR IEC 60439-1 item 5.2.",
+                "legal_base": "NR 10 itens 10.3.9 alínea c, 10.10.1a.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 21. CONDUTORES COM EXTREMIDADES NUAS EXPOSTAS",
+                "nc_description": "Evidenciados  condutores  com  as  extremidades nuas expostas sem isolação adequada. Estes condutores podem estar vivos ou vir a se tornar vivos, resultando em risco de choque elétrico por contato direto ou ainda de partes condutivas se tornarem acidental",
+                "category": "",
+                "technical_base": "NBR 5410 itens 4.1.1, 5.1.1.1, Anexo B, NBR IEC 60439-1 item",
+                "legal_base": "NR 10 itens 10.2.8.2.1",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 20. DEFICIÊNCIA   NA   PROTEÇÃO   CONTRA   PERIGOS",
+                "nc_description": "Evidenciado que o conjunto de manobra e controle metálico com classificação IAC (iniciais de Internal arc classified - Arco interno classificado - Conjunto de manobra e controle em invólucro metálico para o qual critérios prescritos para proteção de pesso",
+                "category": "",
+                "technical_base": "NBR 14039 item 5.9, NBRIEC 62271-200 itens 8.3 e 10.2.",
+                "legal_base": "NR 10 item 10.4.1",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 42. Impedimento  De  Reenergização  Inadequado - Somente",
+                "nc_description": "Evidenciado  bloqueio  inadequado  no  conjunto  de  manobra  e controle, está sendo usada apenas a etiqueta de sinalização de equipamento bloqueado e não há nenhum dispositivo de impedimento de energização.",
+                "category": "",
+                "technical_base": "Não aplicável",
+                "legal_base": "NR 10 item 10.3.1, NR 12 item 12.113 b",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 36. CONJUNTO  DE  MANOBRA  E  CONTROLE  COM  GRAU  DE",
+                "nc_description": "Evidenciado que o conjunto de manobra e controle teve o Grau de Proteção  (IP)  alterado  pelo  modo  de  instalação,  onde  foram  realizadas aberturas irregulares, permitindo a entrada de corpos sólidos e de líquidos.",
+                "category": "",
+                "technical_base": "NBR 5410 itens 6.1.3.2, 8.3.2.1.",
+                "legal_base": "NR 10 itens 10.4.1, 10.4.4.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 50. EIXO FRONTAL DE ACIONAMENTO REMOVIDO NO CONJUNTO",
+                "nc_description": "Evidenciado eixo frontal de acionamento do disjuntor removido, inutilizando a manopla de acionamento na porta do conjunto.",
+                "category": "",
+                "technical_base": "NBR 5410 item 8.3.2.2.",
+                "legal_base": "NR 10 item 10.4.4.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 62. COMPONENTES  SOLTOS  EM  CONJUNTOS  DE  MANOBRA  E",
+                "nc_description": "Evidenciados  tomadas  de  corrente  soltas  ou  mal  fixados  em conjuntos de manobra e controle.",
+                "category": "",
+                "technical_base": "NBR 5410 itens 4.1.10, 8.3.2.2.",
+                "legal_base": "NR 10 itens 10.3.3, 10.4.4.",
+                "infraction": 28,
+                "recommendation": ""
+              }
+            ]
+          },
+          {
+            "equipment_tag": "FW5ZJ4",
+            "image": [
+              "https://rti-update.s3.us-east-2.amazonaws.com/11315413012025_instalacao-painel-eletrico-01.jpg"
+            ],
+            "equipment_description": "Painel de distribuição de energia principal",
+            "ncs": [
+              {
+                "nc_title": "NC 6. CONJUNTO DE MANOBRA E CONTROLE COM CORRENTE DE",
+                "nc_description": "Evidenciado que a plaqueta de identificação informa uma corrente de curto circuito inferior a especificada para este conjunto na {citar nº do documento. Ex.: SOENG CC-1296-I-005 Rev.2 capítulo 3.3.}",
+                "category": "",
+                "technical_base": "NBR 5410 item 5.3.5.1",
+                "legal_base": "NR 10 item 10.4.1.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 10. FALTA DE IDENTIFICAÇÃO DE FUNÇÃO DE DISPOSITIVO DE",
+                "nc_description": "Evidenciado a falta de identificação de funções de dispositivos de controle  manual  {Chave  seletora,  Botoeira  etc.}  na  porta  do  conjunto  de manobra e controle.",
+                "category": "",
+                "technical_base": "NBR 5410 itens 6.1.5.1, 6.5.4.9, NBR IEC 60439-1 item 5.2.",
+                "legal_base": "NR 10 itens 10.3.9 alínea c, 10.10.1a.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 21. CONDUTORES COM EXTREMIDADES NUAS EXPOSTAS",
+                "nc_description": "Evidenciados  condutores  com  as  extremidades nuas expostas sem isolação adequada. Estes condutores podem estar vivos ou vir a se tornar vivos, resultando em risco de choque elétrico por contato direto ou ainda de partes condutivas se tornarem acidental",
+                "category": "",
+                "technical_base": "NBR 5410 itens 4.1.1, 5.1.1.1, Anexo B, NBR IEC 60439-1 item",
+                "legal_base": "NR 10 itens 10.2.8.2.1",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 20. DEFICIÊNCIA   NA   PROTEÇÃO   CONTRA   PERIGOS",
+                "nc_description": "Evidenciado que o conjunto de manobra e controle metálico com classificação IAC (iniciais de Internal arc classified - Arco interno classificado - Conjunto de manobra e controle em invólucro metálico para o qual critérios prescritos para proteção de pesso",
+                "category": "",
+                "technical_base": "NBR 14039 item 5.9, NBRIEC 62271-200 itens 8.3 e 10.2.",
+                "legal_base": "NR 10 item 10.4.1",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 42. Impedimento  De  Reenergização  Inadequado - Somente",
+                "nc_description": "Evidenciado  bloqueio  inadequado  no  conjunto  de  manobra  e controle, está sendo usada apenas a etiqueta de sinalização de equipamento bloqueado e não há nenhum dispositivo de impedimento de energização.",
+                "category": "",
+                "technical_base": "Não aplicável",
+                "legal_base": "NR 10 item 10.3.1, NR 12 item 12.113 b",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 36. CONJUNTO  DE  MANOBRA  E  CONTROLE  COM  GRAU  DE",
+                "nc_description": "Evidenciado que o conjunto de manobra e controle teve o Grau de Proteção  (IP)  alterado  pelo  modo  de  instalação,  onde  foram  realizadas aberturas irregulares, permitindo a entrada de corpos sólidos e de líquidos.",
+                "category": "",
+                "technical_base": "NBR 5410 itens 6.1.3.2, 8.3.2.1.",
+                "legal_base": "NR 10 itens 10.4.1, 10.4.4.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 50. EIXO FRONTAL DE ACIONAMENTO REMOVIDO NO CONJUNTO",
+                "nc_description": "Evidenciado eixo frontal de acionamento do disjuntor removido, inutilizando a manopla de acionamento na porta do conjunto.",
+                "category": "",
+                "technical_base": "NBR 5410 item 8.3.2.2.",
+                "legal_base": "NR 10 item 10.4.4.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 62. COMPONENTES  SOLTOS  EM  CONJUNTOS  DE  MANOBRA  E",
+                "nc_description": "Evidenciados  tomadas  de  corrente  soltas  ou  mal  fixados  em conjuntos de manobra e controle.",
+                "category": "",
+                "technical_base": "NBR 5410 itens 4.1.10, 8.3.2.2.",
+                "legal_base": "NR 10 itens 10.3.3, 10.4.4.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 54. DISPOSITIVO DE PROTEÇÃO CONTRA SURTO - DESATIVADO",
+                "nc_description": "Evidenciado  Dispositivo  de  Proteção  contra  Surto  (DPS), desativado, sem indicação de atuação por falha ou deficiência, não provendo a proteção contra qualquer sobretensão, o que compromete a segurança das instalações elétricas e proteção do conjunto",
+                "category": "",
+                "technical_base": "NBR 5410 item 6.3.5.2.4 ,6.3.5.2.8, 7.2.2, alínea c.",
+                "legal_base": "NR 10 item 10.4.1",
+                "infraction": 28,
+                "recommendation": ""
+              }
+            ]
+          },
+          {
+            "equipment_tag": "FW5ZJ4",
+            "image": [
+              "https://rti-update.s3.us-east-2.amazonaws.com/11315413012025_instalacao-painel-eletrico-01.jpg"
+            ],
+            "equipment_description": "Painel de distribuição de energia principal",
+            "ncs": [
+              {
+                "nc_title": "NC 6. CONJUNTO DE MANOBRA E CONTROLE COM CORRENTE DE",
+                "nc_description": "Evidenciado que a plaqueta de identificação informa uma corrente de curto circuito inferior a especificada para este conjunto na {citar nº do documento. Ex.: SOENG CC-1296-I-005 Rev.2 capítulo 3.3.}",
+                "category": "",
+                "technical_base": "NBR 5410 item 5.3.5.1",
+                "legal_base": "NR 10 item 10.4.1.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 10. FALTA DE IDENTIFICAÇÃO DE FUNÇÃO DE DISPOSITIVO DE",
+                "nc_description": "Evidenciado a falta de identificação de funções de dispositivos de controle  manual  {Chave  seletora,  Botoeira  etc.}  na  porta  do  conjunto  de manobra e controle.",
+                "category": "",
+                "technical_base": "NBR 5410 itens 6.1.5.1, 6.5.4.9, NBR IEC 60439-1 item 5.2.",
+                "legal_base": "NR 10 itens 10.3.9 alínea c, 10.10.1a.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 21. CONDUTORES COM EXTREMIDADES NUAS EXPOSTAS",
+                "nc_description": "Evidenciados  condutores  com  as  extremidades nuas expostas sem isolação adequada. Estes condutores podem estar vivos ou vir a se tornar vivos, resultando em risco de choque elétrico por contato direto ou ainda de partes condutivas se tornarem acidental",
+                "category": "",
+                "technical_base": "NBR 5410 itens 4.1.1, 5.1.1.1, Anexo B, NBR IEC 60439-1 item",
+                "legal_base": "NR 10 itens 10.2.8.2.1",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 20. DEFICIÊNCIA   NA   PROTEÇÃO   CONTRA   PERIGOS",
+                "nc_description": "Evidenciado que o conjunto de manobra e controle metálico com classificação IAC (iniciais de Internal arc classified - Arco interno classificado - Conjunto de manobra e controle em invólucro metálico para o qual critérios prescritos para proteção de pesso",
+                "category": "",
+                "technical_base": "NBR 14039 item 5.9, NBRIEC 62271-200 itens 8.3 e 10.2.",
+                "legal_base": "NR 10 item 10.4.1",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 42. Impedimento  De  Reenergização  Inadequado - Somente",
+                "nc_description": "Evidenciado  bloqueio  inadequado  no  conjunto  de  manobra  e controle, está sendo usada apenas a etiqueta de sinalização de equipamento bloqueado e não há nenhum dispositivo de impedimento de energização.",
+                "category": "",
+                "technical_base": "Não aplicável",
+                "legal_base": "NR 10 item 10.3.1, NR 12 item 12.113 b",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 36. CONJUNTO  DE  MANOBRA  E  CONTROLE  COM  GRAU  DE",
+                "nc_description": "Evidenciado que o conjunto de manobra e controle teve o Grau de Proteção  (IP)  alterado  pelo  modo  de  instalação,  onde  foram  realizadas aberturas irregulares, permitindo a entrada de corpos sólidos e de líquidos.",
+                "category": "",
+                "technical_base": "NBR 5410 itens 6.1.3.2, 8.3.2.1.",
+                "legal_base": "NR 10 itens 10.4.1, 10.4.4.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 50. EIXO FRONTAL DE ACIONAMENTO REMOVIDO NO CONJUNTO",
+                "nc_description": "Evidenciado eixo frontal de acionamento do disjuntor removido, inutilizando a manopla de acionamento na porta do conjunto.",
+                "category": "",
+                "technical_base": "NBR 5410 item 8.3.2.2.",
+                "legal_base": "NR 10 item 10.4.4.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 62. COMPONENTES  SOLTOS  EM  CONJUNTOS  DE  MANOBRA  E",
+                "nc_description": "Evidenciados  tomadas  de  corrente  soltas  ou  mal  fixados  em conjuntos de manobra e controle.",
+                "category": "",
+                "technical_base": "NBR 5410 itens 4.1.10, 8.3.2.2.",
+                "legal_base": "NR 10 itens 10.3.3, 10.4.4.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 54. DISPOSITIVO DE PROTEÇÃO CONTRA SURTO - DESATIVADO",
+                "nc_description": "Evidenciado  Dispositivo  de  Proteção  contra  Surto  (DPS), desativado, sem indicação de atuação por falha ou deficiência, não provendo a proteção contra qualquer sobretensão, o que compromete a segurança das instalações elétricas e proteção do conjunto",
+                "category": "",
+                "technical_base": "NBR 5410 item 6.3.5.2.4 ,6.3.5.2.8, 7.2.2, alínea c.",
+                "legal_base": "NR 10 item 10.4.1",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 70. IDENTIFICAÇÃO   DE   CIRCUITOS   EQUIPAMENTOS   EM",
+                "nc_description": "Evidenciados  equipamentos  com  duas  ou  mais  identificações podendo causar confusão e acidentes.",
+                "category": "",
+                "technical_base": "NBR 5410 itens 6.1.5.1, 6.5.4.9.",
+                "legal_base": "NR 10 item 10.3.9 c, 10.10.1a",
+                "infraction": 28,
+                "recommendation": ""
+              }
+            ]
+          },
+          {
+            "equipment_tag": "FW5ZJ4",
+            "image": [
+              "https://rti-update.s3.us-east-2.amazonaws.com/11315413012025_instalacao-painel-eletrico-01.jpg"
+            ],
+            "equipment_description": "Painel de distribuição de energia principal",
+            "ncs": [
+              {
+                "nc_title": "NC 6. CONJUNTO DE MANOBRA E CONTROLE COM CORRENTE DE",
+                "nc_description": "Evidenciado que a plaqueta de identificação informa uma corrente de curto circuito inferior a especificada para este conjunto na {citar nº do documento. Ex.: SOENG CC-1296-I-005 Rev.2 capítulo 3.3.}",
+                "category": "",
+                "technical_base": "NBR 5410 item 5.3.5.1",
+                "legal_base": "NR 10 item 10.4.1.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 10. FALTA DE IDENTIFICAÇÃO DE FUNÇÃO DE DISPOSITIVO DE",
+                "nc_description": "Evidenciado a falta de identificação de funções de dispositivos de controle  manual  {Chave  seletora,  Botoeira  etc.}  na  porta  do  conjunto  de manobra e controle.",
+                "category": "",
+                "technical_base": "NBR 5410 itens 6.1.5.1, 6.5.4.9, NBR IEC 60439-1 item 5.2.",
+                "legal_base": "NR 10 itens 10.3.9 alínea c, 10.10.1a.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 21. CONDUTORES COM EXTREMIDADES NUAS EXPOSTAS",
+                "nc_description": "Evidenciados  condutores  com  as  extremidades nuas expostas sem isolação adequada. Estes condutores podem estar vivos ou vir a se tornar vivos, resultando em risco de choque elétrico por contato direto ou ainda de partes condutivas se tornarem acidental",
+                "category": "",
+                "technical_base": "NBR 5410 itens 4.1.1, 5.1.1.1, Anexo B, NBR IEC 60439-1 item",
+                "legal_base": "NR 10 itens 10.2.8.2.1",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 20. DEFICIÊNCIA   NA   PROTEÇÃO   CONTRA   PERIGOS",
+                "nc_description": "Evidenciado que o conjunto de manobra e controle metálico com classificação IAC (iniciais de Internal arc classified - Arco interno classificado - Conjunto de manobra e controle em invólucro metálico para o qual critérios prescritos para proteção de pesso",
+                "category": "",
+                "technical_base": "NBR 14039 item 5.9, NBRIEC 62271-200 itens 8.3 e 10.2.",
+                "legal_base": "NR 10 item 10.4.1",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 42. Impedimento  De  Reenergização  Inadequado - Somente",
+                "nc_description": "Evidenciado  bloqueio  inadequado  no  conjunto  de  manobra  e controle, está sendo usada apenas a etiqueta de sinalização de equipamento bloqueado e não há nenhum dispositivo de impedimento de energização.",
+                "category": "",
+                "technical_base": "Não aplicável",
+                "legal_base": "NR 10 item 10.3.1, NR 12 item 12.113 b",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 36. CONJUNTO  DE  MANOBRA  E  CONTROLE  COM  GRAU  DE",
+                "nc_description": "Evidenciado que o conjunto de manobra e controle teve o Grau de Proteção  (IP)  alterado  pelo  modo  de  instalação,  onde  foram  realizadas aberturas irregulares, permitindo a entrada de corpos sólidos e de líquidos.",
+                "category": "",
+                "technical_base": "NBR 5410 itens 6.1.3.2, 8.3.2.1.",
+                "legal_base": "NR 10 itens 10.4.1, 10.4.4.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 50. EIXO FRONTAL DE ACIONAMENTO REMOVIDO NO CONJUNTO",
+                "nc_description": "Evidenciado eixo frontal de acionamento do disjuntor removido, inutilizando a manopla de acionamento na porta do conjunto.",
+                "category": "",
+                "technical_base": "NBR 5410 item 8.3.2.2.",
+                "legal_base": "NR 10 item 10.4.4.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 62. COMPONENTES  SOLTOS  EM  CONJUNTOS  DE  MANOBRA  E",
+                "nc_description": "Evidenciados  tomadas  de  corrente  soltas  ou  mal  fixados  em conjuntos de manobra e controle.",
+                "category": "",
+                "technical_base": "NBR 5410 itens 4.1.10, 8.3.2.2.",
+                "legal_base": "NR 10 itens 10.3.3, 10.4.4.",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 54. DISPOSITIVO DE PROTEÇÃO CONTRA SURTO - DESATIVADO",
+                "nc_description": "Evidenciado  Dispositivo  de  Proteção  contra  Surto  (DPS), desativado, sem indicação de atuação por falha ou deficiência, não provendo a proteção contra qualquer sobretensão, o que compromete a segurança das instalações elétricas e proteção do conjunto",
+                "category": "",
+                "technical_base": "NBR 5410 item 6.3.5.2.4 ,6.3.5.2.8, 7.2.2, alínea c.",
+                "legal_base": "NR 10 item 10.4.1",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 70. IDENTIFICAÇÃO   DE   CIRCUITOS   EQUIPAMENTOS   EM",
+                "nc_description": "Evidenciados  equipamentos  com  duas  ou  mais  identificações podendo causar confusão e acidentes.",
+                "category": "",
+                "technical_base": "NBR 5410 itens 6.1.5.1, 6.5.4.9.",
+                "legal_base": "NR 10 item 10.3.9 c, 10.10.1a",
+                "infraction": 28,
+                "recommendation": ""
+              },
+              {
+                "nc_title": "NC 74. DENTIFICAÇÃO  DE  CIRCUITOS  E  EQUIPAMENTOS  COM",
+                "nc_description": "Evidenciado identificação de circuitos e equipamentos no conjunto de manobra e controle com material inadequado.",
+                "category": "",
+                "technical_base": "NBR 5410 itens 6.1.5.1, 6.5.4.9, NBR IEC 60439-1 item 5.2.",
+                "legal_base": "NR 10 itens 10.3.9.c, 10.10.1.a.",
+                "infraction": 28,
+                "recommendation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
